@@ -1,6 +1,8 @@
 # hettreatreg
 OLS Weights on Heterogeneous Treatment Effects Use hettreatreg With (In) R Software
 
+https://www.youtube.com/watch?v=5WmRZSgN4uQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
